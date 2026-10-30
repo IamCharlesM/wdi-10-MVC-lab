@@ -1,5 +1,4 @@
 /REST/node_modules/
-temp_auto_push.bat
 /mars/node_modules/
-.gitignore
-branch_structure.json
+config.bat
+node_modules
